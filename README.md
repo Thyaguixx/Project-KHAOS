@@ -23,7 +23,6 @@ Tudo isso para consolidar meus estudos em Python e aprofundar meu conhecimento e
 ## 🛠️ Tecnologias utilizadas
 - Python 🐍
 - PyGame 🎮
-- [Adicione outras libs se houver]
 
 ## 📁 Estrutura do projeto (versão atualizada)
 
