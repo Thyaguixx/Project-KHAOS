@@ -24,18 +24,6 @@ Tudo isso para consolidar meus estudos em Python e aprofundar meu conhecimento e
 - Python 🐍
 - PyGame 🎮
 
-## 📁 Estrutura do projeto (versão atualizada)
-
-project-khaos/
-│
-├── assets/ # Imagens, sprites, sons
-├── src/ # Código-fonte do jogo
-│ ├── main.py # Arquivo principal
-│ └── ... # Demais arquivos e módulos
-├── README.md
-└── requirements.txt # Dependências
-
-
 ## 🚀 Em desenvolvimento
 
 Novas melhorias e recursos estão a caminho!  
