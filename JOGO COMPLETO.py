@@ -6,7 +6,7 @@ pygame.init()
 branco = pygame.Color(255, 255, 255)
 tela = pygame.display.set_mode([800, 600])
 tela.fill(branco)
-pygame.display.set_caption("Khaos")
+pygame.display.set_caption("Project-KHAOS")
 
 
 global gameRun, pulando
