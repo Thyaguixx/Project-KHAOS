@@ -1,7 +1,6 @@
 import pygame
-import os
 from pygame.mixer import Sound
-from play_khaos import *
+from play_khaos import jogar
 
 global gameRun, pulando
 
@@ -17,4 +16,4 @@ pygame.display.set_caption("Project-KHAOS")
 gameRun = True
 pulando = False
 
-jogar(gameRun)
+jogar(tela, gameRun, pulando)
