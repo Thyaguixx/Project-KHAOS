@@ -1,6 +1,6 @@
 import pygame
 
-def cenario(tela, vivo: bool, x_do_bicho: int, y_do_bicho: int):
+def cenario(tela: pygame.Surface, vivo: bool, x_do_bicho: int, y_do_bicho: int):
     # cenario
     cenario_original = pygame.image.load("assets/cenario 80 porcento.png")
     cenario_aumentado = pygame.transform.scale(cenario_original, [900, 600])
